@@ -6,7 +6,7 @@ messOs enables seamless, real-time messaging across your devices. Send text, ima
 
 ## Getting Started (Detailed and User-Friendly):
 
-### site: https://massos.netlify.app/
+### site: https://messos.netlify.app/
   - **Sing up**: Sing up with google or email!
   - **Login**: Login to other devices.
   - **Message**: Send message to all of your devices!
@@ -57,7 +57,7 @@ messOs enables seamless, real-time messaging across your devices. Send text, ima
 
 **Live Demo:**
 
-Check out a live demo of messOs at [https://massos.netlify.app/](https://massos.netlify.app/). (Remember to update the provided URL if the deployment location changes)
+Check out a live demo of messOs at [https://messos.netlify.app/](https://messos.netlify.app/). (Remember to update the provided URL if the deployment location changes)
 
 **License:**
 
