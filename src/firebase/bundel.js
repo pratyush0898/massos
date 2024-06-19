@@ -1,0 +1,12 @@
+import firebase from "firebase/compat/app";
+import '/firebase/firebase-app-compat.js'
+import '/firebase/firebase-auth-compat.js'
+import '/firebase/firebase-database-compat.js'
+import '/firebase/firebase-firestore-compat.js'
+import '/firebase/firebase-functions-compat.js'
+import '/firebase/firebase-messaging-compat.js'
+import '/firebase/firebase-storage-compat.js'
+import '/firebase/firebase-analytics-compat.js'
+import '/firebase/firebase-remote-config-compat.js'
+import '/firebase/firebase-performance-compat.js'
+import '/firebase/init.js'
