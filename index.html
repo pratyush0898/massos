@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>messOs - Real-Time Cross-Device Messaging</title>
+    <link rel="icon" type="image/svg+xml" href="./public/favicon.ico" />
+    <meta property="og:title" content="messOs - Real-Time Cross-Device Messaging" />
+    <meta property="og:description" content="Send text, images, and audio (optional) across all your devices seamlessly with messOs. Built with React and Firebase for a secure and synchronized messaging experience." />
+    <meta property="og:url" content="https://massos.netlify.app/" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="messOs - Real-Time Cross-Device Messaging" />
+    <meta name="twitter:description" content="Send text, images, and audio (optional) across all your devices seamlessly with messOs. Built with React and Firebase for a secure and synchronized messaging experience." />
+    <meta name="description" content="Send text, images, and audio (optional) across all your devices seamlessly with messOs. Built with React and Firebase for a secure and synchronized messaging experience." />
+    <meta name="author" content="nvmPratyush" />
+
+    <script defer src="/__/firebase/10.12.2/firebase-app-compat.js"></script>
+    <!-- include only the Firebase features as you need -->
+    <script defer src="/__/firebase/10.12.2/firebase-auth-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-database-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-firestore-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-functions-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-messaging-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-storage-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-analytics-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-remote-config-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-performance-compat.js"></script>
+    <!-- 
+      initialize the SDK after all desired features are loaded, set useEmulator to false
+      to avoid connecting the SDK to running emulators.
+    -->
+    <script defer src="/__/firebase/init.js?useEmulator=true"></script>
+    
+    <script defer src="./src/firebase/firebase.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+
+  </body>
+</html>
